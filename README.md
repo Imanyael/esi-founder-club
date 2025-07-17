@@ -14,6 +14,11 @@ So, you've vibe‑coded something cool for your phone with Bolt.new. What's next
 
 > You could technically do these after downloading your project, but might as well knock them out here—especially the parts Bolt can generate for you.
 
+* CLICK INTEGRATION
+* Add Github
+* Add Supabase
+  
+
 * **App Icon & Splash Screen**
 
   1. Follow the guide: [https://docs.expo.dev/develop/user-interface/splash-screen-and-app-icon/](https://docs.expo.dev/develop/user-interface/splash-screen-and-app-icon/)
